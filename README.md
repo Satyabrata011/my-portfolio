@@ -30,13 +30,17 @@ This is my personal portfolio website built using **React.js**.
 
 
 
-📸 Screenshots
 
-src\assets\img\Home page.png
-src\assets\img\Skills page.png
-src\assets\img\Project page.png
-src\assets\img\Contact page.png
+## 🌟 Screenshots
 
+### 🏠 Home Page
+![Home](https://github.com/Satyabrata011/my-portfolio/blob/main/src/assets/img/Home%20page.png)
+
+### 💼 Projects Section
+![Projects](https://github.com/Satyabrata011/my-portfolio/blob/main/src/assets/img/Project%20page.png)
+
+### 📞 Contact Page
+![Contact](https://github.com/Satyabrata011/my-portfolio/blob/main/src/assets/img/Contact%20page.png)
 
 
 
