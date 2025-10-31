@@ -18,15 +18,14 @@ This is my personal portfolio website built using **React.js**.
    ```bash
    git clone https://github.com/Satyabrata011/my-portfolio.git
 
-
-Install dependencies:
-```bash
+   Install dependencies:
     npm install
 
-
-Start the app:
-```bash
+   Start the app:
     npm start
+
+
+
 
 
 ## 🌐 Live Demo
