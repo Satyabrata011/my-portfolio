@@ -25,7 +25,9 @@ Install dependencies: npm install
 Start the app: npm start
 
 
-Live Demo
+## 🌐 Live Demo
+👉 [Click here to view the live website](https://my-portfolio-eight-peach-26.vercel.app/)
+
 
 
 📸 Screenshots
