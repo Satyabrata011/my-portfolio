@@ -19,14 +19,18 @@ This is my personal portfolio website built using **React.js**.
    git clone https://github.com/Satyabrata011/my-portfolio.git
 
 
-Install dependencies: npm install
+Install dependencies:
+```bash
+    npm install
 
 
-Start the app: npm start
+Start the app:
+```bash
+    npm start
 
 
 ## 🌐 Live Demo
-👉 [Click here to view the live website](https://my-portfolio-eight-peach-26.vercel.app/)
+👉 [Click here to view live website](https://my-portfolio-eight-peach-26.vercel.app/)
 
 
 
