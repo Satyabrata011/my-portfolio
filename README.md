@@ -25,9 +25,6 @@ This is my personal portfolio website built using **React.js**.
     npm start
 
 
-
-
-
 ## 🌐 Live Demo
 👉 [Click here to view live website](https://my-portfolio-eight-peach-26.vercel.app/)
 
@@ -35,13 +32,12 @@ This is my personal portfolio website built using **React.js**.
 
 📸 Screenshots
 
-![Home Page](image.png)
+src\assets\img\Home page.png
+src\assets\img\Skills page.png
+src\assets\img\Project page.png
+src\assets\img\Contact page.png
 
-![Skills Page](image-1.png)
 
-![Projects Page](image-2.png)
-
-![Contact Page](image-3.png)
 
 
 👨‍💻 Developed by: Your Name
