@@ -1,7 +1,7 @@
 import { Container, Row, Col } from "react-bootstrap";
 import logo from "../assets/img/logo.png";
 import navIcon1 from "../assets/img/nav-icon1.svg";  // LinkedIn
-import navIcon2 from "../assets/img/Github.png";  // GitHub
+import navIcon2 from '../assets/img/github.svg';  // GitHub
 import navIcon3 from "../assets/img/nav-icon3.svg";  // Instagram
 
 export const Footer = () => {
