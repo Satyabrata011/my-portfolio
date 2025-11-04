@@ -52,14 +52,15 @@ export const Banner = () => {
   };
 
   // ✅ Function to trigger resume download
-  const handleDownload = () => {
-    const link = document.createElement("a");
-    link.href = "/Satyabrata-Pradhan-Resume.pdf"; // File in public folder
-    link.download = "Satyabrata-Pradhan-Resume.pdf"; // Download name
-    document.body.appendChild(link);
-    link.click();
-    document.body.removeChild(link);
-  };
+ const handleDownload = () => {
+  const link = document.createElement("a");
+  link.href = `${process.env.PUBLIC_URL}/Satyabrata Pradhan CV-1.pdf`; // Path to resume in public folder
+  link.download = "Satyabrata Pradhan CV-1.pdf"; // Suggested filename
+  document.body.appendChild(link);
+  link.click();
+  document.body.removeChild(link);
+};
+
 
   return (
     <section className="banner" id="home">
