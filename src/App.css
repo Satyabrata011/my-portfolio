@@ -289,24 +289,25 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 .header-img {
   width: 100%;
   height: auto;
-  max-width: 400px; /* optional - limits size on large screens */
+  max-width: 400px;
   display: block;
-  margin: 0 auto;
-  object-fit: contain; /* ensures image doesn’t stretch */
+  margin: -100px auto 0 auto; /* ⬆ moves image upward */
+  object-fit: contain;
+  transition: all 0.3s ease; /* smooth adjustment */
 }
 
-/* Optional: fine-tune for smaller devices */
+/* Responsive fine-tuning */
 @media (max-width: 768px) {
   .header-img {
     max-width: 300px;
-    margin-top: 30px;
+    margin: -20px auto 0 auto; /* smaller upward shift on mobile */
   }
 }
 
 @media (max-width: 480px) {
   .header-img {
     max-width: 250px;
-    margin-top: 20px;
+    margin: -10px auto 0 auto;
   }
 }
 
